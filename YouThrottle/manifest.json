@@ -1,8 +1,8 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "YouThrottle",
     "version": "1.0",
-    "description": "Removes the code that throttles YouTube",
+    "description": "Removes code from a specific JavaScript file",
     "permissions": ["activeTab"],
     "content_scripts": [
       {
